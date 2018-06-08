@@ -447,7 +447,7 @@ int main(void)
 		{
 			NotUseCard=0;
 
-			LCD_ShowString(50,80,200,16,16,"        ");//清除卡号：
+			LCD_ShowString(50,80,200,16,16,"        ");//清除卡号
 			LCD_ShowString(50,104,200,16,24,"        ");//清除余额					
 			LCD_ShowString(80,128,200,16,16,"                    ");//清除入场时间
 			LCD_ShowString(80,152,200,16,16,"                    ");//清除出场时间
